@@ -13,7 +13,7 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyDescription("A simple utility for editing/creating json files")>
 <Assembly: AssemblyCompany("Dustin Harmon")>
 <Assembly: AssemblyProduct("Json Utility")>
-<Assembly: AssemblyCopyright("Dustin Harmon MIT  2025")>
+<Assembly: AssemblyCopyright("Dustin Harmon 2025")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
