@@ -1,0 +1,11 @@
+U:\Source\New folder\ConfigJsonUtility1.0.0.2t\ConfigJsonUtility_NET452_errhilite\obj\Debug\ConfigJsonUtility.vbprojAssemblyReference.cache
+U:\Source\New folder\ConfigJsonUtility1.0.0.2t\ConfigJsonUtility_NET452_errhilite\obj\Debug\ConfigJsonUtility.vbproj.CoreCompileInputs.cache
+U:\Source\New folder\ConfigJsonUtility1.0.0.2t\ConfigJsonUtility_NET452_errhilite\bin\Debug\Newtonsoft.Json.dll
+U:\Source\New folder\ConfigJsonUtility1.0.0.2t\ConfigJsonUtility_NET452_errhilite\bin\Debug\Newtonsoft.Json.xml
+U:\Source\New folder\ConfigJsonUtility1.0.0.2t\ConfigJsonUtility_NET452_errhilite\obj\Debug\ConfigJsonUtility.vbproj.CopyComplete
+U:\Source\New folder\ConfigJsonUtility1.0.0.2t\ConfigJsonUtility_NET452_errhilite\bin\Debug\SimpleJsonEditor.exe
+U:\Source\New folder\ConfigJsonUtility1.0.0.2t\ConfigJsonUtility_NET452_errhilite\bin\Debug\SimpleJsonEditor.pdb
+U:\Source\New folder\ConfigJsonUtility1.0.0.2t\ConfigJsonUtility_NET452_errhilite\obj\Debug\SimpleJsonEditor.FormConfigEditor.resources
+U:\Source\New folder\ConfigJsonUtility1.0.0.2t\ConfigJsonUtility_NET452_errhilite\obj\Debug\ConfigJsonUtility.vbproj.GenerateResource.cache
+U:\Source\New folder\ConfigJsonUtility1.0.0.2t\ConfigJsonUtility_NET452_errhilite\obj\Debug\SimpleJsonEditor.exe
+U:\Source\New folder\ConfigJsonUtility1.0.0.2t\ConfigJsonUtility_NET452_errhilite\obj\Debug\SimpleJsonEditor.pdb
